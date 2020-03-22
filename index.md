@@ -5,11 +5,11 @@
 ### Projects
 
 [QuickCal](/sample_page)
-<img src="images/QuickCal.gif?raw=true"/>
+<img src="images/Quick.pngf?raw=true"/>
 
 ---
 [Game of Life](/pdf/sample_presentation.pdf)
-<img src="images/Life.gif?raw=true"/>
+<img src="images/Life.png?raw=true"/>
 
 
 ---
