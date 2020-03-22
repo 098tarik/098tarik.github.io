@@ -5,6 +5,6 @@
 
 ### 3. Demo
 
-<img src="images/QuickCal.gid?raw=true"/>
+<img src="images/QuickCal.gif?raw=true"/>
 
 
