@@ -5,7 +5,7 @@
 ### Projects
 
 [QuickCal](/sample_page)
-<img src="images/Quick.pngf?raw=true"/>
+<img src="images/Quick.png?raw=true"/>
 
 ---
 [Game of Life](/pdf/sample_presentation.pdf)
