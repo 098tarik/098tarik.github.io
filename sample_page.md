@@ -1,31 +1,10 @@
-## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Project description:** As busy college students, we are quite reliant on tools such as Google Calendar in order to plan our day. Even then, sometimes it becomes a chore to open up my Google Calendar and set-up an appointment every-time someone mentions a meeting or an event. With this chrome extension, the process of setting up events within Google Calendar becomes streamlined and accessible. Any user would be able to skim the most important details of their future meeting by highlighting relevant text. This is done through the user of NLP libraries and text queries. This then brings the user to a Google Calendar window where all of the relevant fields have already been filled in.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 3. Demo
 
-### 2. Assess assumptions on which statistical inference will be based
+<img src="images/QuickCal.gid?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
